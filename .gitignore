@@ -11,19 +11,3 @@
 # VIM swap files
 *.swp
 
-# gh-pages orphan branch
-*/
-*.yml
-*.md
-.*
-LICENSE
-!.gitignore
-!gh-pages
-!assets/
-!data/
-!docs/
-!embed/
-!images/
-!logos/
-!index.html
-!.nojekyll
